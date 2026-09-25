@@ -1,0 +1,2 @@
+# vault-console
+host
